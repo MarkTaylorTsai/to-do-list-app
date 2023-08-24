@@ -1,0 +1,33 @@
+body {
+  background-color: #461717;
+ font-family: Source Han Serif, Noto Serif CJK, Microsoft YaHei
+
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.btn-primary {
+  background-color: ff0000;
+}
+
+.btn:hover {
+  padding-left: 1px;
+  padding-right: 1px;
+
+}
+
+.border {
+  border: 1px solid #ccc
+}
+
+.rounded {
+  border-radius: 4px;
+}
+
